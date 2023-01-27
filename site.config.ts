@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: '',
   github: '',
   linkedin: 'chenyouwu',
+  email: 'hw2864@tc.columbia.edu',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
